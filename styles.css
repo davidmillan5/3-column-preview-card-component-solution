@@ -18,8 +18,7 @@ body {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   width: 1440px;
-  /* height: 550px; */
-  margin: 0 auto;
+  margin: 7.5rem 10.5rem;
 }
 p {
   color: hsla(0, 0%, 100%, 0.75);
